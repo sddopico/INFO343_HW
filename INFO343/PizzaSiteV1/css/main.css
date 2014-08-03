@@ -1,0 +1,119 @@
+body {
+	background-color: #101010;
+  	padding-top: 50px;
+}
+.starter-template {
+	padding: 40px 15px;
+  	text-align: center;
+  	color: purple;
+}
+.starter-template p {
+	color: #fff;
+	font-variant: small-caps;
+}
+a.navbar-brand img {
+	margin-right: 20px;
+	height: 25px;
+}
+.hero-unit {
+	padding: 100px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	font-weight: 200;
+	line-height: 30px;
+	color: inherit;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #eeeeee;
+	-webkit-border-radius: 6px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+}
+#hero-unit-home {
+	background-image: url('../pizza1.jpg');
+}
+#hero-unit-menu {
+	background-image: url('../pizza-order.jpg');
+}
+#hero-unit-about {
+	background-image: url('../pizza-oven.jpg');
+}
+.info {
+	margin-left: 0px;
+}
+#info li {
+	list-style-type: none;
+}
+#info a {
+	color: purple;
+}
+.menu-head {
+	color: #fff;
+}
+.menu-head li {
+	list-style-type: none;
+}
+
+.food h3 {
+	color: #fff;
+}
+
+.food dt {
+	color: #fff;
+}
+
+.food dd {
+	color: #BDB6BF;
+}
+
+.about h1 {
+	color: #fff;
+	text-align: center;
+}
+
+.story h2 {
+	color: #fff;
+}
+
+.story p {
+	color: #BDB6BF;
+}
+
+.eco h2 {
+	color: #fff;
+}
+
+.eco p {
+	color: #BDB6BF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
